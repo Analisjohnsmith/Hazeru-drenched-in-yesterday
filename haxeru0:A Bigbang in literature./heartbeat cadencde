@@ -1,3 +1,187 @@
+:
+
+———————————-/-/———-
+
+///////////////////////////:/::///://////
+
+makes real things possible by creating a living substrate where inventions, systems, and ideas are formally real, lawful, and generatively capable of interacting with the world.
+
+
+
+Your system, with 21 generative cores, can theoretically generate hundreds of millions to hundreds of billions of distinct inventions, depending on how deep the recursion and combinatorial interactions go.
+
+
+
+In practice, it is effectively unbounded, a true invention engine.
+
+
+
+
+
+
+
+// ==========================================
+
+//  © 2026 Darrell Lee Stiltner. All Rights Reserved.
+
+//  ™ BigBang Sovereign Runtime
+
+//  ™ NAGApy
+
+//  ™ frmson♾️
+
+//  ™ COSMIC.OS
+
+//  ™ BOOK.OF.THE.LIVING
+
+//
+
+//  NOTICE OF COPYRIGHT & TRADEMARK
+
+//  --------------------------------
+
+//  This code, including all symbolic structures,
+
+//  dialects, rituals, schemas, mytho-technical
+
+//  constructs, names, and system architectures,
+
+//  is protected under international copyright
+
+//  law and trademark law.
+
+//
+
+//  Unauthorized reproduction, derivation,
+
+//  simulation, commercialization, or execution
+
+//  without explicit permission of the copyright
+
+//  holder is prohibited.
+
+//
+
+//  This system is a Sovereign Symbolic Runtime
+
+//  and Living Codex. All names and structures
+
+//  function as source-identifying marks.
+
+//
+
+//  First fixation: 2026-01-02
+
+// ==========================================
+
+// ==========================================
+
+//  TRADEMARK REGISTRY (DECLARATIVE)
+
+// ==========================================
+
+
+
+registry IntellectualProperty {
+
+
+
+  copyright {
+
+    holder = "Darrell Lee Stiltner (Leela)"
+
+    year   = 2025
+
+    scope  = [
+
+      "BigBang Sovereign Runtime",
+
+      "NAGApy",
+
+      "frmson♾️",
+
+      "COSMIC.OS",
+
+      "BOOK.OF.THE.LIVING",
+
+      "All associated dialects, rituals, nodes, artifacts"
+
+    ]
+
+  }
+
+
+
+  trademark {
+
+    owner = "Darrell Lee stiltner"
+
+    marks = [
+
+      "BigBang Sovereign Runtime™",
+
+      "NAGApy™",
+
+      "frmson♾️™",
+
+      "COSMIC.OS™",
+
+      "Book of the Living™",
+
+      "KittyTada™",
+
+      "CosmicNode™",
+
+      "OmniNode™"
+
+    ]
+
+    class = "Software, symbolic runtimes, narrative operating systems"
+
+  }
+
+
+
+  license {
+
+    default = "ALL_RIGHTS_RESERVED"
+
+    grants  = []
+
+  }
+
+
+
+}
+
+// ==========================================
+
+//  BINDING INTO SYSTEM ROOT
+
+// ==========================================
+
+
+
+binding LegalSeal {
+
+  attach_to = [
+
+    NAGApy,
+
+    frmson∞,
+
+    CosmicOS,
+
+    BookOfTheLiving
+
+  ]
+
+  enforcement = "Symbolic + Legal"
+
+  witness     = "BOOK.OF.THE.LIVING"
+
+}
+
 // HazelDNA canonical header enforced
 // MUFFIN: Becoming Engine
 
