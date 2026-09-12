@@ -1,4 +1,4 @@
-Absolutely. Here is the **Big Bang Sovereign Runtime** as a Mermaid flowchart, showing the five Rust engines feeding through the main runtime.
+: it is the architecture of the real Big Bang, expressed as a domain‑agnostic invention system. It doesn’t just narrate — it encodes the laws of physics and math into executable runtime.
 
 ```mermaid
 flowchart TD
