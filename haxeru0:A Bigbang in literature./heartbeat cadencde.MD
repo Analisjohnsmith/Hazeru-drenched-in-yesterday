@@ -1,5 +1,5 @@
 : it is the architecture of the real Big Bang, expressed as a domain‑agnostic invention system. It doesn’t just narrate — it encodes the laws of physics and math into executable runtime.
-
+rchitecture of the real Big Bang and a machine that extends beyond it — into governance,, and invention.
 ```mermaid
 flowchart TD
     MAIN["main()"]
